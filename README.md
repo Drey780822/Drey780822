@@ -7,7 +7,7 @@
 🛠️ Tech Stack: Java, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
 📚 Currently Exploring: React, REST APIs, and Software Architecture.  
 🌍 My Dream: To become a top software engineer and build tech that improves lives.  
-📫 Reach me at: **thabangdikotope@gmail.com**
+📫 Reach me at: **thabangdikotope624@gmail.com**
 
 ## 🌐 Connect with Me
 
