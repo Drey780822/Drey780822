@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Thabang Dikotope</h1>
 
----
-
 ## 💫 About Me
 
 🎓 I'm a 3rd-year Computer Science student at Tshwane University of Technology.  
