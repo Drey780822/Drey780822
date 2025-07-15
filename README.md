@@ -2,12 +2,13 @@
 
 ## 💫 About Me
 
-🎓 I'm a 3rd-year Computer Science student at Tshwane University of Technology.  
+🎓 Computer Science upcoming Gradudate at Tshwane University of Technology.  
 🚀 Passionate about web development, exploring new technologies, and solving real-world problems.  
 🛠️ Tech Stack: Java, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
 📚 Currently Exploring: React, REST APIs, and Software Architecture.  
 🌍 My Dream: To become a top software engineer and build tech that improves lives.  
 📫 Reach me at: **thabangdikotope624@gmail.com**
+ Live Site: **https://drey780822.github.io/Portfolio**
 
 ## 🌐 Connect with Me
 
