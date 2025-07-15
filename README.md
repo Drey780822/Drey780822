@@ -2,18 +2,24 @@
 
 ## 💫 About Me
 
-🎓 Computer Science upcoming Gradudate at Tshwane University of Technology.  
-🚀 Passionate about web development, exploring new technologies, and solving real-world problems.  
+🎓 Computer Science upcoming graduate from Tshwane University of Technology.  
+🚀 Passionate about web development, cloud computing, and solving real-world problems with code.  
+☁️ AWS Cloud Quest: Cloud Practitioner certified – building cloud-based IT & software solutions.  
 🛠️ Tech Stack: Java, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
-📚 Currently Exploring: React, REST APIs, and Software Architecture.  
-🌍 My Dream: To become a top software engineer and build tech that improves lives.  
-📫 Reach me at: **thabangdikotope624@gmail.com**
- Live Site: **https://drey780822.github.io/Portfolio**
+📚 Currently Exploring: React, REST APIs, Software Architecture, and DevOps practices.  
+🌍 Dreaming Big: To become a top software engineer and develop impactful, user-centered tech.  
+📫 Reach me at: **thabangdikotope624@gmail.com**  
+
+🔗 **Live Portfolio:** [thabangs-portfolio.netlify.app](https://thabangs-portfolio.netlify.app)
+
+---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-dikotope-135437247)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thabangdikotope624@gmail.com)
+
+---
 
 ## 💻 Tech Stack
 
@@ -55,6 +61,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Drey780822&icon=0&color=12)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧾 Visitor Count
+[![](https://visitcount.itsvg.in/api?id=Drey780822&icon=0&color=12)](https://visitcount.itsvg.in)
