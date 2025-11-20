@@ -5,7 +5,7 @@
 🎓 Computer Science upcoming graduate from Tshwane University of Technology.  
 🚀 Passionate about web development, cloud computing, and solving real-world problems with code.  
 ☁️ AWS Cloud Quest: Cloud Practitioner certified – building cloud-based IT & software solutions.  
-🛠️ Tech Stack: Java, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
+🛠️ Tech Stack: Java, PHP, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
 📚 Currently Exploring: React, REST APIs, Software Architecture, and DevOps practices.  
 🌍 Dreaming Big: To become a top software engineer and develop impactful, user-centered tech.  
 📫 Reach me at: **thabangdikotope624@gmail.com**  
@@ -30,6 +30,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 🧰 Frameworks & Libraries  
+![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -37,6 +38,7 @@
 
 ### 🗃️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=flat&logo=phpmyadmin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
