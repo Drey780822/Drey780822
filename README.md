@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 Computer Science upcoming graduate from Tshwane University of Technology.  
+🎓 Recent Computer Science graduate.  
 🚀 Passionate about web development, cloud computing, and solving real-world problems with code.  
 ☁️ AWS Cloud Quest: Cloud Practitioner certified – building cloud-based IT & software solutions.  
 🛠️ Tech Stack: Java, PHP, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
