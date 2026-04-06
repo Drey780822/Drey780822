@@ -1,62 +1,96 @@
 <h1 align="center">👋 Hi, I'm Thabang Dikotope</h1>
+<h3 align="center">🚀 Freelance Full-Stack Developer | Cybersecurity-Focused Engineer</h3>
+
+---
 
 ## 💫 About Me
 
-🎓 Recent Computer Science graduate.  
-🚀 Passionate about web development, cloud computing, and solving real-world problems with code.  
-☁️ AWS Cloud Quest: Cloud Practitioner certified – building cloud-based IT & software solutions.  
-🛠️ Tech Stack: Java, PHP, Python, HTML/CSS, JavaScript, MySQL, Servlets, JSP.  
-📚 Currently Exploring: React, REST APIs, Software Architecture, and DevOps practices.  
-🌍 Dreaming Big: To become a top software engineer and develop impactful, user-centered tech.  
-📫 Reach me at: **thabangdikotope624@gmail.com**  
+💼 I’m a **Freelance Software Engineer** currently building real-world applications for multiple clients.  
+🔐 I specialize in **secure, scalable web applications** with a strong focus on cybersecurity.  
+🎓 Computer Science Graduate (Expected May 2026)  
 
-🔗 **Live Portfolio:** [thabangs-portfolio.netlify.app](https://thabangs-portfolio.netlify.app)
+I don’t just build systems — I build **secure and production-ready solutions**.
 
-## 🌐 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-dikotope-135437247)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thabangdikotope624@gmail.com)
+## 🚀 What I Do
 
-## 💻 Tech Stack
+- 🔧 Build full-stack web applications (Frontend + Backend)
+- 🔐 Implement secure authentication & authorization systems
+- 🌐 Develop RESTful APIs & integrate third-party services
+- ☁️ Deploy and manage cloud-based applications
+- 🧠 Apply **OWASP security best practices** in real-world systems
+
+---
+
+## 🧩 Featured Work
+
+### 🚗 Fuel Delivery Platform (Production Project)
+- Full-stack system for ordering and delivering fuel
+- Integrated payments, maps, and real-time workflows
+- Built using Python (Flask), APIs, and cloud deployment
+
+### 🎟️ Event Management System
+- Secure authentication (Flask + bcrypt)
+- Role-Based Access Control (RBAC)
+- QR-code ticketing system
+- Email & WhatsApp notifications
+
+### 📊 VisionDesk (Project Management SaaS)
+- Built with React, Redux, Node.js
+- Secure API & authentication middleware
+- Team collaboration & task tracking
+
+### 🤖 AI Pest Detection System
+- YOLOv8 object detection model
+- Real-time detection with Streamlit
+- Computer vision + ML deployment
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+Java • Python • JavaScript • PHP • Kotlin  
 
-### 🧰 Frameworks & Libraries  
-![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![JEE](https://img.shields.io/badge/Java%20EE-%23D42029.svg?style=flat&logo=java&logoColor=white)
+### 🌐 Web & Backend  
+HTML • CSS • Flask • Django • REST APIs • Node.js  
 
 ### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=flat&logo=phpmyadmin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+MySQL • PostgreSQL • Oracle SQL • SQLite  
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+AWS • Google Cloud • Vercel • Render  
 
-### 🛠️ Tools & Platforms  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=api&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![Clickatell](https://img.shields.io/badge/Clickatell-009FDA?style=flat&logo=clickatell&logoColor=white)
+### 🔐 Cybersecurity  
+Nmap • Metasploit • Burp Suite • Wireshark  
+OWASP Top 10 • Secure Coding • Vulnerability Assessment  
 
-### 🎨 Design Tools  
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+---
 
+## 📈 Currently Focused On
+
+- ⚛️ Mastering React & modern frontend systems  
+- 🏗️ System Design & Software Architecture  
+- 🔐 Advanced Cybersecurity & Secure Engineering  
+- 🚀 Scaling freelance work into a full software business  
+
+---
+
+## 🌍 Vision
+
+Building a **software company** that delivers secure, scalable, and impactful digital solutions for businesses worldwide.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **thabangdikotope624@gmail.com**  
+🌐 Portfolio: **https://thabangs-portfolio.netlify.app**  
+💼 LinkedIn: **https://www.linkedin.com/in/thabang-dikotope-135437247**
+
+---
+
+## ⚡ Fun Fact
+
+I transitioned from structured employment to full freelance development to pursue **freedom, growth, and building real systems that matter.**
