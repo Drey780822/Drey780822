@@ -11,15 +11,15 @@
 
 ## About Me
 
-I'm a Computer Science graduate from Tshwane University of Technology (Diploma, 360/360 credits, completed March 2026), currently a Software Engineering Intern at **Kion Consulting** on their Fintech-Technical Vacation Work Programme.
+I'm a Computer Science graduate from Tshwane University of Technology (Diploma, 360/360 credits, completed March 2026), working as a freelance full-stack software engineer and actively seeking a graduate developer role.
 
 I build production-grade systems for real, paying clients — not just portfolio demos. That includes a live fuel delivery platform processing real payments, a multi-service business platform, and an AI-powered pest detection system that placed Top 4 nationally.
 
 - 🎓 Diploma in Computer Science — TUT (360/360 credits, completed March 2026)
-- 💼 Currently: Software Engineering Intern @ Kion Consulting (Fintech-Technical Programme)
 - 🚀 Freelance full-stack engineer since 2025 — 3 production client systems shipped
 - 🔐 AWS Cloud Practitioner certified · Ethical Hacker Certificate (Mpumalanga AI Hackathon 2025)
 - 📍 Based in Johannesburg, South Africa
+- 🎯 Actively seeking graduate software engineering opportunities
 
 ---
 
@@ -69,9 +69,6 @@ Led a team of 10 developers to design, build, and present an AI-powered pest det
 ---
 
 ## Experience
-
-**Software Engineering Intern** — Kion Consulting, Fintech-Technical Programme *(June 2026 – Present)*
-Working on client-facing technical deliverables within a fintech engineering environment, applying backend and cloud skills in a regulated (POPIA, PCI-DSS) production context.
 
 **Software Development & IT Support Intern (WIL)** — MTP IT Solutions / T&T Group *(Sept 2025 – Feb 2026)*
 Delivered client-facing websites, managed live deployments (DNS, SSL), used Docker and Postman in a supervised dev cycle, resolved authentication/config issues across client environments.
