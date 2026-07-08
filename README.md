@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science graduate from **Tshwane University of Technology** who builds full-stack platforms that run in production for real clients — not just portfolio demos. My most recent build, **FuelLink Pro**, is a live fuel delivery platform processing real payments end-to-end for a paying customer.
+I'm a Computer Science graduate from **Tshwane University of Technology** who builds full-stack platforms that run in production for real clients not just portfolio demos. My most recent build, **FuelLink Pro**, is a live fuel delivery platform processing real payments end-to-end for a paying customer.
 
 - 💼 Completed a 6-month **Work-Integrated Learning (WIL)** internship in Software Development & IT Support
 - 🛠️ Leading engineering on multiple live, client-facing systems — from database design to deployment
@@ -131,12 +131,6 @@ Led a team of 10 to design and ship an AI-powered pest detection and mitigation 
 `Computer Vision` `Flask` `Real-Time Streaming`
 
 <br>
-
-## 📊 GitHub Analytics
-
-<details>
-<summary><b>Click to expand — stats, streak, top languages & trophies</b></summary>
-
 <br>
 
 <div align="center">
@@ -153,14 +147,6 @@ Led a team of 10 to design and ship an AI-powered pest detection and mitigation 
 </details>
 
 <br>
-
-## 🎓 Education
-
-**Diploma in Computer Science** — Tshwane University of Technology *(effective March 2026 · 360/360 credits)*
-
-- Software Programming · Mobile Device Programming · Database Design · Systems Analysis
-- Peer Tutor (2023–2024): supported 30+ students per semester in Programming, Databases & Web Development
-
 <br>
 
 ## 📜 Certifications
